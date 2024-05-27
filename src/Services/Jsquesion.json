@@ -1,0 +1,73 @@
+[
+    {
+      "question": "Inside which HTML element do we put the javascript?",
+      "option1": "<js>",
+      "option2": "<scripting>",
+      "option3": "<script>",
+      "option4": "<javascript>",
+      "answer": 3
+    }, {
+      "question": "Where is the correct place to insert a javascript?",
+      "option1": "The <body> section",
+      "option2": "The <head> section",
+      "option3": "All of these",
+      "answer": 1
+    }, {
+      "question": "What is the correct syntax for refering to an external script called \"xxx.js\"?",
+      "option1": "<script src=\"xxx.js\"",
+      "option2": "<script href=\"xxx.js\"",
+      "option3": "<script name=\"xxx.js\"",
+      "answer": 1
+    }, {
+      "question": "The external javascript file must contain <script> tag?",
+      "option1": "false",
+      "option2": "true",
+      "answer": 1
+    }, {
+      "question": "How do you write \"Hello World\" in an alert box?",
+      "option1": "msg(\"Hello World\")",
+      "option2": "alert(\"Hello World\")",
+      "option3": "alertBox(\"Hello World\")",
+      "option4": "msgBox(\"Hello World\")",
+      "answer": 2
+    }, {
+      "question": "How to write an IF statement in javascript?",
+      "option1": "if (i==5)",
+      "option2": "if i==5 then",
+      "option3": "if i=5 then",
+      "option4": "if i==5",
+      "answer": 1
+    }, {
+      "question": "How to write an IF statement for executing some code if \"i\" NOT equal to 5?",
+      "option1": "if i <> 5",
+      "option2": "if (i!=5)",
+      "option3": "if (i <> 5)",
+      "option4": "if i ! 5",
+      "answer": 2
+    }, {
+      "question": "How does a WHILE loop start?",
+      "option1": "while (i < 10)",
+      "option2": "while i = 1 to 10",
+      "option3": "while (i = 1; i++)",
+      "answer": 1
+    }, {
+      "question": "Method to round the number to the nearest integer?",
+      "option1": "Math.round()",
+      "option2": "Math.rnd()",
+      "option3": "Math.near()",
+      "option4": "All of these",
+      "answer": 1
+    }, {
+      "question": "How do you find the with the highest value of x and y?",
+      "option1": "Math.ceil(x,y)",
+      "option2": "ceil(x,y)",
+      "option3": "Math.max(x,y)",
+      "option4": "max(x,y)",
+      "answer": 3
+    }, {
+      "question": "JavaScript is same as Java.",
+      "option1": "False",
+      "option2": "True",
+      "answer": 1
+    }
+  ]

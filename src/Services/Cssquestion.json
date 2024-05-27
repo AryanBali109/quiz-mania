@@ -1,0 +1,75 @@
+[
+    {
+      "question": "What does CSS stand for?",
+      "option1": "Computer Style Sheets",
+      "option2": "Colorful Style Sheets",
+      "option3": "Creative Style Sheets",
+      "option4": "Cascading Style Sheets",
+      "answer": 4
+    }, {
+      "question": "Where in an HTML document is the correct place to refer to an external style sheet?",
+      "option1": "In the <body> section",
+      "option2": "In the <head> section",
+      "option3": "At the end of the document",
+      "answer": 2
+    }, {
+      "question": "Which HTML tag is used to define internal style sheet?",
+      "option1": "<style>",
+      "option2": "<link>",
+      "option3": "<script>",
+      "answer": 1
+    }, {
+      "question": "Which HTML attribute is used to define inline styles?",
+      "option1": "styles",
+      "option2": "class",
+      "option3": "style",
+      "option4": "font",
+      "answer": 3
+    }, {
+      "question": "Which CSS property controls the text size?",
+      "option1": "font-size",
+      "option2": "font-style",
+      "option3": "text-size",
+      "option4": "text-style",
+      "answer": 1
+    }, {
+      "question": "How do you display hyperlinks without an underline?",
+      "option1": "a {text-decoration:none;}",
+      "option2": "a {text-decoration:-no-underline;}",
+      "option3": "a {underline:none;}",
+      "option4": "All of these",
+      "answer": 1
+    }, {
+      "question": "How do you make each word in a text start with a capital letter ?",
+      "option1": "text-style:captialize",
+      "option2": "you can't do that with CSS",
+      "option3": "transform:capitalize",
+      "option4": "text-transform:capitalize",
+      "answer": 4
+    }, {
+      "question": "Which color is used to change the font of an element?",
+      "option1": "font-family",
+      "option2": "font-weight",
+      "option3": "font-style",
+      "answer": 1
+    }, {
+      "question": "How you make the text bold?",
+      "option1": "font:bold;",
+      "option2": "font-weight:bold;",
+      "option3": "style:bold;",
+      "option4": "None of these",
+      "answer": 2
+    }, {
+      "question": "Which property is used to change the left margin of an element?",
+      "option1": "margin-left",
+      "option2": "padding-left",
+      "option3": "left",
+      "option4": "All of these",
+      "answer": 1
+    }, {
+      "question": "When you do padding are you allowed to use negative value?",
+      "option1": "Yes",
+      "option2": "No",
+      "answer": 1
+    }
+  ]
